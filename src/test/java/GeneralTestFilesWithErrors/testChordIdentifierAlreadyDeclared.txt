@@ -1,0 +1,2 @@
+ChordA = (a c e)
+ChordA = (f g a)

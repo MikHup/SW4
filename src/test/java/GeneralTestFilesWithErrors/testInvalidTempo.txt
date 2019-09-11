@@ -1,0 +1,3 @@
+Tempo = 0
+Tempo = 120
+Tempo = 1000

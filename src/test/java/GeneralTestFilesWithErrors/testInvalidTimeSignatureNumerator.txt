@@ -1,0 +1,3 @@
+TimeSignature = 0/4
+TimeSignature = 8/4
+TimeSignature = 17/4

@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'antlr'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    antlr "org.antlr:antlr4:4.7.1"
+    compile group: 'org.antlr', name: 'antlr4-runtime', version: '4.7.1'
+    testCompile('org.junit.jupiter:junit-jupiter-api:5.2.0')
+    testRuntime('org.junit.jupiter:junit-jupiter-engine:5.2.0')
+}

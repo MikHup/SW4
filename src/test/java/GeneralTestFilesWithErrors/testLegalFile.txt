@@ -1,0 +1,13 @@
+Title = "Never gonna give you up"
+Tempo = 116
+
+Piano:
+O4 L4 f+/d/b3. e/c+/a3. r e/c+/a3. f+/d/b3. L16 a g f+ e
+O4 L4 f+/d/b3. e/c+/a3. r e/c+/a3. a3/d L16 a3 a3 b3 d b3 d
+O4 L4 f+/d/b3. e/c+/a3. r e/c+/a3. f+/d/b3. L16 a g f+ e
+O4 L4 f+/d/b3. e/c+/a3. r e/c+/a3. a3/d L16 a3 a3 b3 d b3 d
+
+tro = (O4 L8 f+/d/b3/g3. f+/d/b3/g3. L4 e/c+/a3. L16 a3 b3 c+ a3)
+lo = (O4 L8 e/c+/a3. e/c+/a3. L4 f+/d/b3. L16 a g f+ e)
+tro lo
+tro lo

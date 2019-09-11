@@ -1,0 +1,12 @@
+Piano:      a
+Marimba:    a
+Organ:      a
+Guitar:     a
+Cello:      a
+Strings:    a
+Saxophone:  a
+Ocarina:    a
+Lead:       a
+Pad:        a
+Banjo:      a
+Drum:       a

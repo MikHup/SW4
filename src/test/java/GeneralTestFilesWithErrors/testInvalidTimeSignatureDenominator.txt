@@ -1,0 +1,5 @@
+TimeSignature = 8/0
+TimeSignature = 8/8
+TimeSignature = 8/11
+TimeSignature = 8/32
+TimeSignature = 8/119
